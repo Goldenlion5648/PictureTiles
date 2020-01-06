@@ -1,2 +1,2 @@
-![alt text](https://github.com/Goldenlion5648/PictureTiles/picturetiles2.png "PictureTiles1")
+![alt text](https://github.com/Goldenlion5648/PictureTiles/blob/master/picturetiles2.png "PictureTiles1")
 
